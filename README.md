@@ -1,7 +1,9 @@
 # README
 
 This is a prototype project for testing out an possible system wide integration
-using RabbitMQ as the task/message broker. This
+using RabbitMQ as the task/message broker.
+
+Please excuse any odd formatting. My Java is a bit rusty.
 
 ## Requirements
 
